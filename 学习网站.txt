@@ -1,0 +1,8 @@
+（简书：Python+opencv的配置）
+https://www.jianshu.com/p/09b208cd5627
+（anaconda的使用）
+https://www.zhihu.com/question/58033789
+（opencv的使用）
+https://www.jianshu.com/p/91f5bce4420d
+https://zhuanlan.zhihu.com/p/24425116
+
